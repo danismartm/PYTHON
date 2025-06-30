@@ -25,3 +25,6 @@ Este proyecto muestra en un mapa interactivo todos los lugares que he visitado, 
 
 ```bash
 pip install folium
+
+python3 map_flights.py
+open mapa_visitas.html
